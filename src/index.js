@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import { Game } from './Game/Game';
+import Game from './Game/Game';
 import Button from '@mui/material/Button';
 
 ReactDOM.render(
